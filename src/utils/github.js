@@ -1,7 +1,7 @@
 const github = require('@actions/github');
 const core = require('@actions/core');
 const eventDescriptions = require('./eventDescriptions');
-const { username, token, eventLimit, style, ignoreEvents } = require('../config');
+const { username, token, eventLimit, style, targetRepos, ignoreEvents } = require('../config');
 
 // Create an authenticated Octokit client
 const octokit = github.getOctokit(token);
