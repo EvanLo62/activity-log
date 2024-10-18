@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/c760ff597cf1e8b489c08d4215c8d3ace0b3b0e3)
+2. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/347fa230c762dec3a5d17aa4f8a7350e04a82772)
+3. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/2fe1f1e33832e54fb01eeefbf0b1a79a036ee6fa)
+4. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/31f7b8b7e8d570b4b614ab86b70e3924c9778769)
+5. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/95ff81a0430d29909fd814c4ebb17aeea8e4440a)
+6. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/4417b7b680613de077bc3a8a4b9a7ff66fa763c5)
+7. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/fef03e27306d4c10da30857db0aa957751e74010)
+8. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/c760ff597cf1e8b489c08d4215c8d3ace0b3b0e3)
+9. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/347fa230c762dec3a5d17aa4f8a7350e04a82772)
+10. 📝 Committed to [EvanLo62/activity-log](https://github.com/EvanLo62/activity-log/commit/2fe1f1e33832e54fb01eeefbf0b1a79a036ee6fa)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
